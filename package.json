@@ -2,7 +2,7 @@
   "name": "vscode-medusa",
   "displayName": "medusa",
   "description": "",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "publisher": "ascoders",
   "engines": {
     "vscode": "^1.25.0"
@@ -31,6 +31,10 @@
         }
       }
     }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ascoders/vscode-medusa"
   },
   "main": "./out/extension",
   "scripts": {
